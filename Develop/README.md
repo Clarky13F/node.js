@@ -2,7 +2,7 @@
 # clark
 
 ## Description
-clar
+clark
 
 ## Table of Contents
 - [Installation](#installation)
